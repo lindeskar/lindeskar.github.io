@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lindeskar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lindeskar.se
+  * I am lindeskar (https://keybase.io/lindeskar) on keybase.
+  * I have a public key ASDWdoyXkJbFdW4LIGwitrS0bsGUB_n_aMo0eHdNu_hRrAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e99e553e0ea82db98c0fb8a7659966196ff0c47f03a1af73565ae62b3766ea60a",
+      "host": "keybase.io",
+      "kid": "0120d6768c979096c5756e0b206c22b6b4b46ec19407f9ff68ca3478774dbbf851ac0a",
+      "uid": "d367c8069bea900f17f28a09db963c19",
+      "username": "lindeskar"
+    },
+    "merkle_root": {
+      "ctime": 1508271711,
+      "hash": "9e7f1514b56d460abb4c500d85bdd3847b6d5f3dc6799646b31788c22643291ed8000660853c15e0f1b61c586be28927eeb6833a301ddf04ca5eb8e0ac9b8554",
+      "hash_meta": "37c14e8b33709b99f8e00ef5c59e449a85aae025a5ed2225c3a9a1e268b4c54b",
+      "seqno": 1593317
+    },
+    "service": {
+      "hostname": "lindeskar.se",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508271734,
+  "expire_in": 504576000,
+  "prev": "7807e3f6c3b9d720f5140a9e0d740c22bace87f50c2610727a9cf46a807075da",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1naMl5CWxXVuCyBsIra0tG7BlAf5/2jKNHh3Tbv4UawKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2U5OWU1NTNlMGVhODJkYjk4YzBmYjhhNzY1OTk2NjE5NmZmMGM0N2YwM2ExYWY3MzU2NWFlNjJiMzc2NmVhNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDY3NjhjOTc5MDk2YzU3NTZlMGIyMDZjMjJiNmI0YjQ2ZWMxOTQwN2Y5ZmY2OGNhMzQ3ODc3NGRiYmY4NTFhYzBhIiwidWlkIjoiZDM2N2M4MDY5YmVhOTAwZjE3ZjI4YTA5ZGI5NjNjMTkiLCJ1c2VybmFtZSI6ImxpbmRlc2thciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODI3MTcxMSwiaGFzaCI6IjllN2YxNTE0YjU2ZDQ2MGFiYjRjNTAwZDg1YmRkMzg0N2I2ZDVmM2RjNjc5OTY0NmIzMTc4OGMyMjY0MzI5MWVkODAwMDY2MDg1M2MxNWUwZjFiNjFjNTg2YmUyODkyN2VlYjY4MzNhMzAxZGRmMDRjYTVlYjhlMGFjOWI4NTU0IiwiaGFzaF9tZXRhIjoiMzdjMTRlOGIzMzcwOWI5OWY4ZTAwZWY1YzU5ZTQ0OWE4NWFhZTAyNWE1ZWQyMjI1YzNhOWExZTI2OGI0YzU0YiIsInNlcW5vIjoxNTkzMzE3fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImxpbmRlc2thci5zZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA4MjcxNzM0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijc4MDdlM2Y2YzNiOWQ3MjBmNTE0MGE5ZTBkNzQwYzIyYmFjZTg3ZjUwYzI2MTA3MjdhOWNmNDZhODA3MDc1ZGEiLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAbrhZ24Wyyx/DgeF+tu58h3YM8tg5mrpkwE9MCNkouFyZtBVJgY0ZLpH0q8V7G2UicvFKl5GGE7kjWifmgxfnBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIECdF0H9XLu8wdYjO8wRDceLGSQL3JXPvJmtiIPi0E/Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lindeskar
+
+==================================================================
