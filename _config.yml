@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
+remote_theme: swanson/lagom
 title: lindeskar.se
 description: Personal website of Alexander Lindeskär
-show_downloads: false
