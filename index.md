@@ -1,3 +1,3 @@
 ## Hi!
 
-My name is *Alexander Lindeskär*
+My name is **Alexander Lindeskär**
