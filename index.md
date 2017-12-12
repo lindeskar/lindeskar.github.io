@@ -1,3 +1,3 @@
-## Hi!
+## Hello world
 
-Maybe I'll add something here soon!
+Maybe I'll add something here soon.
