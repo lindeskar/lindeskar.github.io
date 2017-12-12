@@ -1,22 +1,22 @@
-remote_theme: mmistakes/minimal-mistakes
-title: "Alexander Lindeskär"
-title_separator: "|"
-description: "Personal website of Alexander Lindeskär"
-name: "Alexander Lindeskär"
-url: "https://lindeskar.se"
-twitter:
-  username: "lindeskar"
-social:
-  type: Person
-  name: "Alexander Lindeskär"
-  links:
-    - "https://keybase.io/lindeskar"
-    - "https://linkedin.com/in/lindeskar"
-    - "https://twitter.com/lindeskar"
-author:
-  name   : "Alexander Lindeskär"
-  avatar : "IMG_0026_500.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "https://lindeskar.se"
-  twitter: "lindeskar"
+#remote_theme: mmistakes/minimal-mistakes
+#title: "Alexander Lindeskär"
+#title_separator: "|"
+#description: "Personal website of Alexander Lindeskär"
+#name: "Alexander Lindeskär"
+#url: "https://lindeskar.se"
+#twitter:
+#  username: "lindeskar"
+#social:
+#  type: Person
+#  name: "Alexander Lindeskär"
+#  links:
+#    - "https://keybase.io/lindeskar"
+#    - "https://linkedin.com/in/lindeskar"
+#    - "https://twitter.com/lindeskar"
+#author:
+#  name   : "Alexander Lindeskär"
+#  avatar : "IMG_0026_500.jpg"
+#  bio    : "My awesome biography constrained to a sentence or two goes here."
+#  email  : # optional
+#  uri    : "https://lindeskar.se"
+#  twitter: "lindeskar"
